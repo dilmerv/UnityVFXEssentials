@@ -527,7 +527,7 @@ Camera:
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
   m_GateFitMode: 2
-  m_FocalLength: 50
+  m_FocalLength: 25.386196
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -536,7 +536,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 78.75
+  field of view: 69.3
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -561,8 +561,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: 0.047454573, y: -0.28282923, z: 0.014009398, w: 0.95789325}
-  m_LocalPosition: {x: 4.718601, y: 3.5, z: -9.969227}
+  m_LocalRotation: {x: 0.06206643, y: -0.16747375, z: 0.010562924, w: 0.9838642}
+  m_LocalPosition: {x: 1.5277774, y: 4.5509667, z: -11.547719}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
