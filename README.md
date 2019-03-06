@@ -13,6 +13,8 @@ Video 3 - Unity3d VFX Graph Colliders with new VFX Scenes included such as Space
 
 Video 4 - Unity3d VFX Graph Creating Portals
 
+Video 5 - Unity3d VFX Graph Exposed Parameters and Game Object Bindings
+
 
 
 
