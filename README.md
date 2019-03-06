@@ -11,6 +11,8 @@ Video 2 - Unity3d VFX Graph Tips and Tricks while creating comets and stars
 
 Video 3 - Unity3d VFX Graph Colliders with new VFX Scenes included such as Space, Fire, and Basic Scene
 
+Video 4 - Unity3d VFX Graph Creating Portals
+
 
 
 
