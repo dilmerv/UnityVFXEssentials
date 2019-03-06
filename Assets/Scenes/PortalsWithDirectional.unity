@@ -348,15 +348,15 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0.296
-        m_Name: Size
+      - m_Value: 0.27
+        m_Name: ParticleSize
         m_Overridden: 1
     m_Vector2f:
       m_Array: []
     m_Vector3f:
       m_Array:
-      - m_Value: {x: 0, y: -0.23, z: 4.14}
-        m_Name: Directional
+      - m_Value: {x: 0, y: 0, z: 13.93}
+        m_Name: SpherePosition
         m_Overridden: 1
     m_Vector4f:
       m_Array: []
@@ -402,7 +402,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Parameter:
-    m_Name: Directional
+    m_Name: SpherePosition
   Target: {fileID: 608847361}
 --- !u!114 &351504224
 MonoBehaviour:
@@ -677,7 +677,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 608847360}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.23, z: 4.14}
+  m_LocalPosition: {x: 0, y: 0, z: 13.93}
   m_LocalScale: {x: 1.6110983, y: 1.6110983, z: 1.6110983}
   m_Children: []
   m_Father: {fileID: 351504222}
