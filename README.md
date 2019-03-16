@@ -15,6 +15,8 @@ Video 4 - Unity3d VFX Graph Creating Portals
 
 Video 5 - Unity3d VFX Graph Exposed Parameters and Game Object Bindings
 
+Video 6 - Unity3d VFX Graph Creating Meteors and adding stars to simulate motion
+
 
 
 
